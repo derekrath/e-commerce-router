@@ -23,3 +23,10 @@ function App() {
 }
 
 export default App;
+
+
+// Home page
+// Products page
+// Individual product page
+// View cart
+// Checkout page
